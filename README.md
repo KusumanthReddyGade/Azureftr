@@ -7,11 +7,10 @@ This is a webpage developed using HTML & CSS as part of FUTURE READY TALENT Inte
 
 
 # Home page:
-## Image 1:
-![image](https://user-images.githubusercontent.com/100296974/179019652-56e9b55f-5785-41d5-ae1c-8dbaf0a506ec.png)
+## Image 1:![image](https://user-images.githubusercontent.com/100296974/179020387-f958a81c-e165-4f85-9ce5-83c614097f35.png)
 
 ## Image 2:
-![image](https://user-images.githubusercontent.com/100296974/179019895-4dd3b492-fc6e-4051-8aa3-9f2663fe770b.png)
+![image](https://user-images.githubusercontent.com/100296974/179020453-2dfca27b-b0b1-478f-8ce8-6eff7ce089db.png)
 
 ## Image 3:
-![image](https://user-images.githubusercontent.com/100296974/179019954-607ddb30-7a7f-438d-b4db-a4d9fbeb1cb3.png)
+![image](https://user-images.githubusercontent.com/100296974/179020545-93cac1c1-a0b6-4f65-ac5a-14793351ab8a.png)
